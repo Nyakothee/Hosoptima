@@ -1,3 +1,17 @@
+**Project Classification**: Machine Learning & AI System
+
+
+**Technology Stack**: Python 3.8+, TensorFlow/Keras, PostgreSQL, REST APIs
+
+
+**Target Accuracy**: 99%
+
+
+**Architecture**: Ensemble Deep Learning with Multi-Source Data Integration
+
+
+**Status**: Skeleton phase Implementation
+
 The following is a Technical explanation of the Hosoptima official Artificial intelligence for HOS compliance prediction project.This project ia currently in progress having started creating the programs on September 1st with expected phases being *Skeleton code*, *Base code*, *Alpha test*, *Beta test*, *Final production*
 
 **Skeleton code**
