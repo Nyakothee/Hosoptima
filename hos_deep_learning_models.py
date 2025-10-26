@@ -1,7 +1,10 @@
 """
+Code created by: Balaam Ibencho
+Date:01/10/2025
+Regards:Hosoptima.com
 Advanced Deep Learning Models for HOS Violation Prediction
 Includes LSTM, GRU, CNN, Transformer, and Ensemble architectures
-Production-ready with comprehensive model architectures
+I expect to add a final combinatorial hybrid model too.
 """
 
 import numpy as np
