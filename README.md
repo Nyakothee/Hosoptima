@@ -30,4 +30,7 @@ Official model fully complete and has met expectations and is currently being te
 Product is officially released for use into the market based on Companies choice of date.
 
 **Current Update**
+*Data_connector module*
+
+
 
