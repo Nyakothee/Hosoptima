@@ -1,7 +1,9 @@
 """
+Code created by: Balaam Ibencho
+Date:8/10/2025
+Regards:Hosoptima.com
 Advanced Data Preprocessor for HOS Violation Prediction System
 Handles missing values, normalization, feature scaling, outlier detection
-Production-ready with comprehensive data quality checks
 """
 
 import pandas as pd
