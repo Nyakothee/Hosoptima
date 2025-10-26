@@ -1,4 +1,8 @@
 """
+Code created by: Balaam Ibencho
+Date:22/9/2025
+Regards:Hosoptima.com
+
 Advanced Data Loader for HOS Violation Prediction System
 Handles loading, merging, and initial validation of multiple data sources
 Production-ready with comprehensive error handling and logging
