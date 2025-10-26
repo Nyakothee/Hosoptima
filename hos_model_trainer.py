@@ -1,4 +1,7 @@
 """
+Code created by: Balaam Ibencho
+Date:15/10/2025
+Regards:Hosoptima.com
 Advanced Model Trainer for HOS Violation Prediction System
 Handles training, hyperparameter tuning, cross-validation, and model selection
 Production-ready with comprehensive training pipeline
