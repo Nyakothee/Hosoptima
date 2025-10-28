@@ -31,8 +31,8 @@ Product is officially released for use into the market based on Companies choice
 
 **What makes our system standout from other competitors in the market**
 
-So lets make a comparison of our system to Samsara one if the biggest softwares in the market:
-Based on the technical implementation, here's what makes our system stand out compared to Samsara's standard software:
+So lets make a comparison of our system to Others e.g.Samsara one if the biggest softwares in the market:
+Based on the technical implementation, here's what makes our system stand out compared to Other standard software:
 
 ## Key Differentiators:
 
