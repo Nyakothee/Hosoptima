@@ -38,7 +38,7 @@ Based on the technical implementation, here's what makes our system stand out co
 
 **1. Predictive vs Reactive**
 - **Others**: Reports violations *after* they happen - reactive compliance tracking
-- **Our System**: Predicts violations *before* they occur  87% that is proactive prevention that gives advance warning
+- **Our System**: Predicts violations *before* they occur that is proactive prevention that gives advance warning
 
 **2. AI-Powered Intelligence**
 - **Others**: Basic rule-based alerts (simple threshold checks like "driver worked 10 hours")
