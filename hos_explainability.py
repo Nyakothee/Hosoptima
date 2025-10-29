@@ -1,4 +1,8 @@
 """
+Code created by: Balaam Ibencho
+Date:22/9/2025
+Regards:Hosoptima.com
+
 Advanced Explainability Engine for HOS Violation Prediction System
 SHAP (SHapley Additive exPlanations) Implementation for Model Interpretability
 Production-ready with visualization, reporting, and real-time explanation generation
