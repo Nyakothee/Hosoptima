@@ -1,7 +1,7 @@
 **Project Classification**: Machine Learning & AI System
 
 
-**Technology Stack**: Python 3.8+, TensorFlow/Keras, PostgreSQL, REST APIs
+**Technology Stack**: Python 3.8+, TensorFlow/Keras, PostgreSQL, REST APIs,Kafkas,Redis,Twilio
 
 
 **Target Accuracy**: 99%
